@@ -44,4 +44,6 @@ Jika anda menjawab "ya" maka akan menampilkan **tampilan menu** , dan jika anda 
 Terimakasih telah melakukan program perhitungan ini
                 Have a nice day!!
 ```
----
+---  
+
+![kalkulator1](https://github.com/stuvhi11/assets/blob/main/kalkulator1.gif)
